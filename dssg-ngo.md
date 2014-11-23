@@ -53,9 +53,15 @@ Diese Folien sollen NGOs erklären, was Data Science ist und wie sie davon profi
 
 ---
 
+TODO
+
+- Regressionsanalyse
+- Klassifikation
+
+---
+
 #### Das klingt etwas abstrakt... zum Glück gibt es
 # [fit] Beispiele
-
 
 ---
 
@@ -186,7 +192,7 @@ TODO
 
 ---
 
-Noch gibt es leider keine Organisation in Deutschland, die diese Art von Hackathen organisiert. Das wollen __wir__ ändern.
+Noch gibt es leider keine Organisation in Deutschland, die diese Art von Hackathon organisiert. Das wollen __wir__ ändern.
 
 # Wer sind wir?
 
@@ -204,7 +210,8 @@ Noch gibt es leider keine Organisation in Deutschland, die diese Art von Hackath
 
 - Klaas Bollhöfer,
 The Unbelievable Machine Company
-- ???
+- Adam Drake,
+Chief Data Scientist, Zanox
 
 ---
 
@@ -223,6 +230,20 @@ Was uns fehlt sind __NGOs__, die bessere Einsichten aus ihren __Daten__ ziehen w
 # Kontakt
 
 TODO
+
+---
+
+# Weiterführende Links:
+
+- [http://www.nominettrust.org.uk/knowledge-centre/articles/big-data-and-social-organisations](http://www.nominettrust.org.uk/knowledge-centre/articles/big-data-and-social-organisations)
+- http://datakind.org
+
+---
+
+Weitere Beispiele (rauswerfen?)
+
+- http://www.bayesimpact.org/projects/dispath-optimization-for-emergency-responders
+
 
 ---
 
