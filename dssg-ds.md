@@ -340,9 +340,11 @@ There is currently no organization in Germany comparable to DataKind.
 # Supporters
 
 - Klaas Bollhöfer,
+__Chief Data Scientist__,
 The Unbelievable Machine Company
 - Adam Drake,
-Chief Data Scientist, Zanox
+__Chief Data Scientist__,
+Zanox
 
 ---
 
@@ -350,20 +352,24 @@ Chief Data Scientist, Zanox
 
 ---
 
+# We need data ambassadors
+## (how DataKind calls them)
+
+- to prepare data before data dives
+- lead teams at data dives
+- help with the implementation afterwards
+
+---
+
 # We need problems
 
 The international of the __Data Science for Social Good__-movement shows data scientists are eager to donate their skills.
 
----
-
-# We need data ambassadors
-## (how DataKind calls them)
-
-To prepare data for data dives and help with the implementation afterwards
+Social organizations need to understand how we can help them. Are you in contact with NGOs? Spread the word!
 
 ---
 
-# Kontakt
+# Contact
 
 Daniel Kirsch
 [mail@danielkirs.ch](mailto:mail@danielkirs.ch)
