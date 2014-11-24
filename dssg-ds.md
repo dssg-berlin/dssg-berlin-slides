@@ -13,6 +13,8 @@ slidenumbers: true
 > The best minds of my generation are thinking about how to make people click ads. That sucks.
 -- Jeff Hammerbacher (Co-founder Facebook)
 
+^ now cloudera
+
 ---
 
 ## Social organizations need to allocate scarce resources for maximum impact
@@ -59,7 +61,7 @@ This is already happening...[^*]
 
 - supported by the Eric & Wendy Schmidt Foundation
 - 6 month fellowship
-- taking applications for 3rd year
+- taking applications for 3rd year (started 2013)
 - Partners: NGOs, Governments
 
 [http://dssg.io/](http://dssg.io/)
@@ -68,11 +70,21 @@ This is already happening...[^*]
 
 ---
 
-# DSSG Example
+# Examples (project headline copy&paste)
+
+- _World Bank Group_ – Prediction & Identification of Collusion in International Development Projects
+- _Chicago Public Schools_ – Student Enrollment Prediction for Budget Allocation
+- _Pecan Street , WikiEnergy_ – Building Open Source Tools to Analyze Smart Meter Data
+
+---
+
+# Selected DSSG Example
 
 Partner: [Nurse-Family Partnership](http://www.nursefamilypartnership.org/)
 
-http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html
+TODO some text
+
+[http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html](http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html)
 
 ^ 19 years ago RCTs to measure success
 ^ now rolled out to all over US
@@ -83,7 +95,17 @@ http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html
 
 ---
 
+# More examples
+
+visit [http://dssg.io/projects/](http://dssg.io/projects/)
+
+---
+
 # DSSG Atlanta
+
+- like DSSG Chicago
+- mainly funded by Oracle and Georgia Tech
+- started 2014 (one year after Chicago)
 
 [http://dssg-atl.io/](http://dssg-atl.io/)
 
@@ -93,8 +115,19 @@ http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html
 
 Bayes Impact is a nonprofit that deploys data scientists to solve big social problems with civic and nonprofit organizations
 
+- started this year
 - 12-month [Fellowship](http://www.bayesimpact.org/fellowship)
-- Example project: [Dispatch-optimization for emergency responders](http://www.bayesimpact.org/projects/dispath-optimization-for-emergency-responders)
+
+^ Full-Time long-term fellowships
+
+---
+
+# Examples (project headline copy&paste)
+
+- Increasing Graduation Rate And Optimizing Class Offerings For _UC Riverside_
+- Improving Outcomes For Emotionally And Behaviorally Challenged Children With _Youth Villages_
+- Stratification Of Parkinson's Disease Patients
+- Optimizing Ambulance Response Times In Sf
 
 ---
 
@@ -102,11 +135,20 @@ Bayes Impact is a nonprofit that deploys data scientists to solve big social pro
 
 ![right fit](thorn-bayes-hack.png)
 
+One weekend,
+impact the world
+
 [http://bayeshack.challengepost.com/submissions](http://bayeshack.challengepost.com/submissions)
+
+^ curious to see how many will be alive in 6 months
+^ image on right shows winner
 
 ---
 
 # Thorn Fellowship
+
+> drive technology innovation to fight child sexual exploitation
+-- http://www.wearethorn.org/thorn-innovation-lab
 
 [http://www.wearethorn.org/thorn-innovation-lab/](http://www.wearethorn.org/thorn-innovation-lab/)
 
@@ -116,19 +158,27 @@ Bayes Impact is a nonprofit that deploys data scientists to solve big social pro
 
 # _driven_data
 
-http://www.drivendata.org/
+- started this year (2014)
+- currently 3 competitions
 
-(https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose)
+[http://www.drivendata.org/](http://www.drivendata.org/)
+
+^ https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose
+^ donors choose lets teachers enter projects for crowdfunding
 
 ---
 
 # KDD 2014
+
 had a
-# [Workshop on Data Science for Social Good](http://dssg.uchicago.edu/kddworkshop/)
+
+[Workshop on Data Science for Social Good](http://dssg.uchicago.edu/kddworkshop/)
+
+^ Bottom of this page has lots of DSSG papers
 
 ---
 
-# DataKind
+# Data__Kind__
 
 > We're tackling the world's biggest problems 	through data science.
 -- [http://www.datakind.org](http://www.datakind.org)
@@ -143,11 +193,15 @@ DataKind connects charities with data scientists by organizing two-day data dive
 
 ---
 
+# [fit] Examples
+
+---
+
 ## Analyzing poverty through satellite imagery
 
 ![fit right](GiveDirectly_uniquePage-550x312.jpg)
 
-[DataKind](http://www.datakind.org/) helped [GiveDirectly](https://www.givedirectly.org/) - an NGO, die bedingungslos Geld an bedürftige Haushalte in Kenia und Uganda überweist[^1] - geholfen, besonders arme Dörfer durch die automatisierte Analyse von Satellitenbildern zu identifizieren[^2].
+[DataKind](http://www.datakind.org/) helped [GiveDirectly](https://www.givedirectly.org/) – an NGO making unconditional cash transfers to poor households via mobile phones in Kenia and Uganda[^1] – to identify especially needy villages through satellite image analysis[^2].
 
 [^1]: [http://www.ted.com/talks/joy_sun_should_you_donate_differently](http://www.ted.com/talks/joy_sun_should_you_donate_differently)
 
@@ -170,79 +224,116 @@ DataKind connects charities with data scientists by organizing two-day data dive
 
 ## Early warning system for human rights abuses
 
-Um zu helfen, die vielen Nachrichten, die über Amnesty Internationals Urgent Action Network eingehen, zu priorisieren, hat DataKind ein Vorhersagemodell erstellt, welches die Nachrichtentexte analysiert, um auf das Eskalationspotential der Situation zu schließen.[^3][^4]
+To help prioritize the many calls for help reaching Amnesty International’s Urgent Action Network DataKind volunteers have created a predictive model that analyzes messages for potential escalation.[^3][^4]
 
-[^3]: http://www.datakind.org/projects/using-predictive-analytics-to-prevent-human-rights-abuses/
+[^3]: [http://www.datakind.org/projects/using-predictive-analytics-to-prevent-human-rights-abuses/](http://www.datakind.org/projects/using-predictive-analytics-to-prevent-human-rights-abuses/)
 
-[^4]: http://www.washingtonpost.com/business/on-it/amnesty-international-considers-using-big-data-to-predict-human-rights-violations/2013/11/22/3f4f1a1e-5388-11e3-a7f0-b790929232e1_story.html
-
----
-
-## Analyse der geografischen Unterversorgung mit Hospizen
-
-TODO[^5]
-
-[^5]: http://www.datakind.org/finding-30000-missing-children/
+[^4]: [http://www.washingtonpost.com/business/on-it/amnesty-international-considers-using-big-data-to-predict-human-rights-violations/2013/11/22/3f4f1a1e-5388-11e3-a7f0-b790929232e1_story.html](http://www.washingtonpost.com/business/on-it/amnesty-international-considers-using-big-data-to-predict-human-rights-violations/2013/11/22/3f4f1a1e-5388-11e3-a7f0-b790929232e1_story.html)
 
 ---
 
-Most of these projects have been tackled by volunteers on 2-day data dives.
+## Predicting demand for children’s hospices
+
+![left](ssc-map.jpg)
+
+Combining data from [Shooting Star Chase](http://www.shootingstarchase.org.uk/), public data about the hospice and healthcare sector and demographic data DatKind volunteers calculated predicted demand against hospice capacity to reveal areas of possible shortage.[^5]
+
+[^5]: [http://www.datakind.org/finding-30000-missing-children/](http://www.datakind.org/finding-30000-missing-children/)
+
+^ + a few other things
+
+---
+
+Most of DataKinds projects have been tackled by volunteers on 2-day data dives.
 
 ---
 
 ## What’s a
 # [fit] Data Dive?
 
----
-
-# Vorher: Vorbereitung der Daten
-#### (durch freiwillige Data Scientists in Zusammenarbeit mit der Organisation – Vorlauf bis zu zwei Monate)
-- Anonymisierung/Pseudonymisierung
-- Säuberung/Fehlerbereinigung
-- Sicherstellen der Maschinenlesbarkeit der Daten-Formate
+^ Who has been on a data dive?
 
 ---
 
-# Vorher: Vorbereitung der Fragestellung
-Daten offenbaren nicht auf magische Weise ihre Geheimnisse. Die richtigen Fragen müssen vorher gestellt werden, damit eine Analyse beim Data Dive Antworten liefern kann.[^10]
-
-[^10]: https://hbr.org/2013/03/you-cant-just-hack-your-way-to/
-
----
-
-# Der Data Dive
-
-- Definition von überprüfbaren Metriken
-- Vorhersagemodelle
-- Visualisierungen
+# Before: Preparation of the data
+#### (by voluntary data ambassadors in collaboration with the challenge partner – starting ~2 month before the data dive)
+- anonymization/pseudonymization
+- cleaning/fixing
+- ensuring proper (machine readable) data formats
 
 ---
 
-# Nachher: Implementierung
-
-TODO
-
----
-
-# Nachher: Impact-Analyse
-
-TODO
+## Before:
+# Preparation of the questions
 
 ---
 
-There is currently no organization in Germany comparable to DataKind. __We__ want to change that.
+> Any data scientist worth their salary will tell you that you should start with a question, NOT the data.
+-- Jake Porway in [https://hbr.org/2013/03/you-cant-just-hack-your-way-to/](https://hbr.org/2013/03/you-cant-just-hack-your-way-to/)
+
+---
+
+# The Data Dive
+
+- Challenge partners pitch their problems
+- Volunteers create analyses, models and visualizations (led by data ambassadors) in two intense days of hacking
+- solutions are being presented at the end
+
+^ Data Ambassadors important
+
+---
+
+## Aftermath:
+# Implementation
+
+#### Social organizations still don’t have the expertise: data ambassadors must help implementing the solutions
+
+^ Not yet quite clear to me
+^ Sent DataKind and email to clarify
+
+---
+
+## Aftermath:
+# Impact Analysis
+
+#### Did it help at all?
+
+^ Not yet quite clear to me
+
+---
+
+There is currently no organization in Germany comparable to DataKind.
+
+---
+
+![right](orly.jpg)
+
+There is currently no organization in Germany comparable to DataKind.
+
+---
+
+![100%](OKFN.png)
+
+---
+
+![100%](cfg.png)
+
+---
+
+# We want to start the
+# [fit] __Data Science for Social Good__
+# Movement in Germany
 
 ---
 
 # Who we are?
 
----
-
-# We
-
 - Daniel Kirsch
 - Marit Brademann
+- Tobias Pfaff
 - You?
+
+^ Detexify, Co-founded OK Lab Münster
 
 ---
 
@@ -282,13 +373,19 @@ No website yet... Need a landing page? TODO
 
 ---
 
+![autoplay loop mute](heart.mp4)
+
+# [fit] _Thank you!_
+# [fit] _Questions?_
+
+---
+
 # Links:
 
-- [http://www.nominettrust.org.uk/knowledge-centre/articles/big-data-and-social-organisations](http://www.nominettrust.org.uk/knowledge-centre/articles/big-data-and-social-organisations)
 - http://datakind.org
 - http://dssg.io
 - http://bayesimpact.org
-- https://www.facebook.com/notes/facebook-data-science/data-science-for-social-good/10152669477928859
+- http://codefor.de
 
 ---
 
