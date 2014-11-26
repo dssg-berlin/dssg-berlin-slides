@@ -82,16 +82,18 @@ This is already happening...[^*]
 
 Partner: [Nurse-Family Partnership](http://www.nursefamilypartnership.org/)
 
-TODO some text
+DSSG analyzed who was „benefiting the most“ from NFP’s Program.
 
 [http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html](http://dssg.uchicago.edu/2014/08/27/nfp-undefinable-unmeasurable.html)
 
+^ sends nurses into homes of young, low-income, first-time mothers where they serve also as confidant and counselors until babies are 2 years old
 ^ 19 years ago RCTs to measure success
 ^ now rolled out to all over US
+^ DSSG helped with impact analysis
 ^ RCTs would be expensive
 ^ first year: compare enrolled mothers to counterfactual population
 ^ second year: define success metrics
-^ success = mothers leave the program? Stay whole 2,5 years?
+^ success = mothers leave the program? Stay whole time?
 
 ---
 
@@ -156,7 +158,7 @@ impact the world
 
 ---
 
-# _driven_data
+# drivendata
 
 - started this year (2014)
 - currently 3 competitions
@@ -183,7 +185,7 @@ had a
 > We're tackling the world's biggest problems 	through data science.
 -- [http://www.datakind.org](http://www.datakind.org)
 
-DataKind connects charities with data scientists by organizing two-day data dives where those data scientists help solving the charities’ data problems.
+DataKind connects charities with data scientists by organizing two-day data dives where those data scientists help solve the charities’ data problems.
 
 ---
 
@@ -236,7 +238,7 @@ To help prioritize the many calls for help reaching Amnesty International’s Ur
 
 ![left](ssc-map.jpg)
 
-Combining data from [Shooting Star Chase](http://www.shootingstarchase.org.uk/), public data about the hospice and healthcare sector and demographic data DatKind volunteers calculated predicted demand against hospice capacity to reveal areas of possible shortage.[^5]
+Combining data from [Shooting Star Chase](http://www.shootingstarchase.org.uk/), public data about the hospice and healthcare sector and demographic data DataKind volunteers calculated predicted demand against hospice capacity to reveal areas of possible shortage.[^5]
 
 [^5]: [http://www.datakind.org/finding-30000-missing-children/](http://www.datakind.org/finding-30000-missing-children/)
 
@@ -286,7 +288,7 @@ Most of DataKinds projects have been tackled by volunteers on 2-day data dives.
 ## Aftermath:
 # Implementation
 
-#### Social organizations still don’t have the expertise: data ambassadors must help implementing the solutions
+#### Social organizations still don’t have the expertise: data ambassadors must help implement the solutions
 
 ^ Not yet quite clear to me
 ^ Sent DataKind and email to clarify
@@ -330,7 +332,8 @@ There is currently no organization in Germany comparable to DataKind.
 
 - Daniel Kirsch
 - Marit Brademann
-- Tobias Pfaff
+- Richard Lawrence
+- Tobias Pfaff (of [dataforgood.co](http://dataforgood.co))
 - You?
 
 ^ Detexify, Co-founded OK Lab Münster
@@ -363,7 +366,7 @@ Zanox
 
 # We need problems
 
-The international of the __Data Science for Social Good__-movement shows data scientists are eager to donate their skills.
+The international of the __Data Science for Social Good__-movement shows that data scientists are eager to donate their skills.
 
 Social organizations need to understand how we can help them. Are you in contact with NGOs? Spread the word!
 
@@ -375,7 +378,8 @@ Daniel Kirsch
 [mail@danielkirs.ch](mailto:mail@danielkirs.ch)
 [@kirel](http://twitter.com/kirel)
 
-No website yet... Need a landing page? TODO
+No website yet... No name...
+just contact me!
 
 ---
 
@@ -388,10 +392,11 @@ No website yet... Need a landing page? TODO
 
 # Links:
 
-- http://datakind.org
-- http://dssg.io
-- http://bayesimpact.org
-- http://codefor.de
+- [http://datakind.org](http://datakind.org)
+- [http://dssg.io](http://dssg.io)
+- [http://dssg-atl.io/](http://dssg-atl.io/)
+- [http://bayesimpact.org](http://bayesimpact.org)
+- [http://codefor.de](http://bayesimpact.org)
 
 ---
 
