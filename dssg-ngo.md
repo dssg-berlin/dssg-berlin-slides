@@ -149,7 +149,7 @@ Diese Projekte sind zum großen Teil von freiwilligen Data Scientists, die sonst
 
 # [fit] __Nachher__: Impact-Analyse
 
-#### Um den Kreis zu schließen, müssen die implementierten Modelle nach einiger Zeit im Produktiveinsatz auf ihren Nutzen überprüft. Hat sich der Einsatz bewährt? Wo muss nachjustiert werden? Besteht weiteres/neues Potential aus den Daten zu lernen?
+#### Um den Kreis zu schließen, müssen die implementierten Modelle nach einiger Zeit im Produktiveinsatz auf ihren Nutzen überprüft werden. Hat sich der Einsatz bewährt? Wo muss nachjustiert werden? Besteht weiteres/neues Potential aus den Daten zu lernen?
 
 
 ---
@@ -268,14 +268,16 @@ Webseite ist in Arbeit.
 # Weiterführende Links:
 
 - [http://www.nominettrust.org.uk/knowledge-centre/articles/big-data-and-social-organisations](http://www.nominettrust.org.uk/knowledge-centre/articles/big-data-and-social-organisations)
-- http://datakind.org
+- [http://datakind.org](http://datakind.org)
+- [http://dssg.io](http://dssg.io)
 
 ---
 
-Weitere Beispiele (rauswerfen?)
+# Weiterführende Links (Fortsetzung):
 
-- http://www.bayesimpact.org/projects/dispath-optimization-for-emergency-responders
-
+- [http://dssg-atl.io/](http://dssg-atl.io/)
+- [http://bayesimpact.org](http://bayesimpact.org)
+- [http://codefor.de](http://bayesimpact.org)
 
 ---
 
