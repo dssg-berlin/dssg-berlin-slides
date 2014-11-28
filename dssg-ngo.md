@@ -53,13 +53,6 @@ Diese Folien sollen NGOs erklären, was Data Science ist und wie sie davon profi
 
 ---
 
-TODO
-
-- Regressionsanalyse
-- Klassifikation
-
----
-
 #### Das klingt etwas abstrakt... zum Glück gibt es
 # [fit] Beispiele
 
@@ -80,7 +73,7 @@ DataKind bringt Wohltätigkeitsorganisationen auf zwei-tägigen Data Dives mit D
 
 ---
 
-## Analyse von Armut mit Satellitenbildern
+## __Beispiel__: Analyse von Armut mit Satellitenbildern
 
 ![fit right](GiveDirectly_uniquePage-550x312.jpg)
 
@@ -92,13 +85,15 @@ DataKind bringt Wohltätigkeitsorganisationen auf zwei-tägigen Data Dives mit D
 
 ---
 
-![](https://www.youtube.com/watch?v=CxENxESpBtk)
+![right](https://www.youtube.com/watch?v=CxENxESpBtk)
+
+[https://www.youtube.com/watch?v=CxENxESpBtk](https://www.youtube.com/watch?v=CxENxESpBtk)
 
 ---
 
-## Frühwarnsystem für Menschenrechtsverletzungen
+## __Beispiel__: Frühwarnsystem für Menschenrechtsverletzungen
 
-Um zu helfen, die vielen Nachrichten, die über Amnesty Internationals Urgent Action Network eingehen, zu priorisieren, hat DataKind ein Vorhersagemodell erstellt, welches die Nachrichtentexte analysiert, um auf das Eskalationspotential der Situation zu schließen.[^3][^4]
+Um zu helfen, die vielen Nachrichten, die über Amnesty Internationals Urgent Action Network eingehen, zu priorisieren, haben Freiwillige von DataKind ein Vorhersagemodell erstellt, welches die Nachrichtentexte analysiert, um auf das Eskalationspotential der Situation zu schließen.[^3][^4]
 
 [^3]: http://www.datakind.org/projects/using-predictive-analytics-to-prevent-human-rights-abuses/
 
@@ -106,11 +101,13 @@ Um zu helfen, die vielen Nachrichten, die über Amnesty Internationals Urgent Ac
 
 ---
 
-## Analyse der geografischen Unterversorgung mit Hospizen
+## __Beispiel__: Analyse der geografischen Unterversorgung mit Hospizen
 
-TODO[^5]
+![right](ssc-map.jpg)
 
-[^5]: http://www.datakind.org/finding-30000-missing-children/
+#### Freiwillige von Datakind haben [Shooting Star Chase](http://www.shootingstarchase.org.uk), die schwerbehinderte Kinder und ihre Familien begleiten, geholfen u.A. aktuelle und zukünftige Versorgungsengpässe in ihren Hospizen mithilfe der Vereinigung von demographischen Daten und Daten aus dem Gesundheitssektor vorherzusagen.[^5]
+
+[^5]: [http://www.shootingstarchase.org.uk/our-care/info-for-families/](http://www.shootingstarchase.org.uk/our-care/info-for-families/)
 
 ---
 
@@ -118,72 +115,42 @@ Diese Projekte sind zum großen Teil von freiwilligen Data Scientists, die sonst
 
 ---
 
-## [fit] Das Muster
-
----
-
-# Regressionsanalyse (Vorhersage)
-
-- identifying supporters likely to donate
-- Frühwarnsysteme
-- Ressourcen-Vorsortierung (Ranking)
-- Predicting where services _will_ be needed
-- (Trends und Änderungen vorhersagen)
-
-TODO
-
----
-
-# Klassifikation
-
-TODO
-
----
-
-# [fit] Finden außergewöhnlicher Datenpunkte
-## (Outlier detection)
-
-TODO
-
----
-
 ## Wie funktioniert ein
-# [fit] Data Dive?
+# [fit] _Data Dive_?
 
 ---
 
-# Vorher: Vorbereitung der Daten
-#### (durch freiwillige Data Scientists in Zusammenarbeit mit der Organisation – Vorlauf bis zu zwei Monate)
+# __Vorher__: Vorbereitung der Daten
+#### (durch freiwillige Datenbotschafter in Zusammenarbeit mit der Organisation – Vorlauf bis zu zwei Monate)
 - Anonymisierung/Pseudonymisierung
 - Säuberung/Fehlerbereinigung
 - Sicherstellen der Maschinenlesbarkeit der Daten-Formate
 
 ---
 
-# Vorher: Vorbereitung der Fragestellung
-Daten offenbaren nicht auf magische Weise ihre Geheimnisse. Die richtigen Fragen müssen vorher gestellt werden, damit eine Analyse beim Data Dive Antworten liefern kann.[^10]
+# [fit] __Vorher__: Vorbereitung der Fragestellung
+#### Daten offenbaren nicht auf magische Weise ihre Geheimnisse. Die richtigen Fragen müssen vorher gestellt werden, damit eine Analyse beim Data Dive Antworten liefern kann.[^10]
 
 [^10]: https://hbr.org/2013/03/you-cant-just-hack-your-way-to/
 
 ---
 
-# Der Data Dive
-
-- Definition von überprüfbaren Metriken
-- Vorhersagemodelle
-- Visualisierungen
+# Der _Data Dive_
+### Das eigentliche Event
+#### Die teilnehmenden Organisationen „pitchen“ ihre Datenprobleme woraufhin sich die teilnehmenden freiwilligen Data Scientists um die Datenbotschafter sammeln, die der Organisation zur Seite stehen, um mithilfe von Vorhersagemodellen und Visualisierungen innerhalb eines Wochenendes Lösungen zu entwickeln.
 
 ---
 
-# Nachher: Implementierung
+# [fit] __Nachher__: Implementierung
 
-TODO
+#### Auch nach dem Data Dive stehen die Datenbotschafter den Organisationen zur Seite, um die prototypischen Lösungen, die auf dem Data Dive entstanden sind, in den produktiven Einsatz zu überführen.
 
 ---
 
-# Nachher: Impact-Analyse
+# [fit] __Nachher__: Impact-Analyse
 
-TODO
+#### Um den Kreis zu schließen, müssen die implementierten Modelle nach einiger Zeit im Produktiveinsatz auf ihren Nutzen überprüft. Hat sich der Einsatz bewährt? Wo muss nachjustiert werden? Besteht weiteres/neues Potential aus den Daten zu lernen?
+
 
 ---
 
@@ -192,7 +159,7 @@ TODO
 
 ---
 
-Noch gibt es leider keine Organisation in Deutschland, die diese Art von Hackathon organisiert. Das wollen __wir__ ändern.
+Noch gibt es leider keine Organisation in Deutschland, die diese Art von zivilgesellschaftlichem Engagement organisiert. Das wollen __wir__ ändern.
 
 # Wer sind wir?
 
@@ -200,18 +167,22 @@ Noch gibt es leider keine Organisation in Deutschland, die diese Art von Hackath
 
 # Wir
 
+#### Wir sind Mathematiker, Statistiker, Ökonomen, Informatiker, etc. die nicht nur Werbung optimieren wollen.
+
 - Daniel Kirsch, Diplom-Mathematiker, Berlin
 - Marit Brademann
-- Du?
+- Tobias Pfaff
 
 ---
 
 # Unsere Unterstützer
 
 - Klaas Bollhöfer,
+__Chief Data Scientist__,
 The Unbelievable Machine Company
 - Adam Drake,
-Chief Data Scientist, Zanox
+__Chief Data Scientist__,
+Zanox
 
 ---
 
@@ -221,15 +192,76 @@ Chief Data Scientist, Zanox
 
 # Wir brauchen Probleme
 
-Aus dem Erfolg der __Data Science for Social Good__-Bewegung in den USA und England (und seit Oktober auch in Indien, Irland, und Singapur) lässt sich ableiten, dass es kein Problem sein wird, Data Scientists zu mobilisieren.
+#### Aus dem Erfolg der __Data Science for Social Good__-Bewegung in den USA und England (und seit Oktober auch in Indien, Irland, und Singapur) lässt sich ableiten, dass es kein Problem sein wird, Data Scientists zu mobilisieren.
 
-Was uns fehlt sind __NGOs__, die bessere Einsichten aus ihren __Daten__ ziehen wollen.
+#### Was uns fehlt sind __NGOs__, die bessere Einsichten aus ihren __Daten__ ziehen wollen.
+
+---
+
+# [fit] Bei welchen Problemen können wir helfen?
+
+#### Die größte Schwierigkeit für soziale Organisationen besteht darin, dass ihnen die Expertise fehlt — personell (Data Scientists) wie materiell (Big Data Technologie) — um aus ihren Daten zu lernen.
+
+#### Damit einher geht die Schwierigkeit zu erkennen, welche Probleme Daten überhaupt lösen können. Wir hoffen durch die vorhergehenden Beispiele und die folgende Blaupause einen Anstoß geben zu können.
+
+---
+
+# Das typische Muster
+
+---
+
+# _Problem_
+
+Begrenzte Ressourcen müssen
+möglichst __optimal__ auf
+Kandidaten (Personen/Gruppen/Regionen) verteilt werden.
+
+---
+
+# _Ansatz_
+
+Ein __Vorhersagemodell__
+wird auf Basis von historischen Daten erstellt
+um die Kandidaten zu bewerten und dadurch in eine __Rangfolge__ zu bringen.
+
+---
+
+# _Gewinn_
+
+Die Kandidaten,
+die dem Modell nach am stärksten profitieren,
+können __priorisiert__ werden.
+
+Das __spart Kosten__ und maximiert den __Impact__.
+
+---
+
+# _Hinweis_
+
+Auch mathematische Modelle sind nicht perfekt.
+
+Das müssen sie aber auch nicht. Sie müssen nur besser sein, als die bisherige Praxis.
+Das sind sie häufig.[^11]
+
+[^11]: Insbesondere da sie keine Opfer von [Urteilsheuristiken](http://de.wikipedia.org/wiki/Urteilsheuristik) und [kognitiven Verzerrungen](http://de.wikipedia.org/wiki/Kognitive_Verzerrung) sind.
+
+---
+
+# Andere typische Anwendungsfälle
+
+- Ausreißeranalyse/Anomalienerkennung (z.B. um Missbrauch aufzudecken)
+- Social Media Analyse
+- ???
 
 ---
 
 # Kontakt
 
-TODO
+Daniel Kirsch
+[mail@danielkirs.ch](mailto:mail@danielkirs.ch)
+[@kirel](http://twitter.com/kirel)
+
+Webseite ist in Arbeit.
 
 ---
 
