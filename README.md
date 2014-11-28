@@ -2,7 +2,7 @@
 
 Various ressources concerning Data Science for Social Good
 
-## Data Science for Social Good (talk for potential volunteer)
+## Data Science for Social Good (talk for potential volunteers)
 
 The slides are created using http://www.decksetapp.com/
 
