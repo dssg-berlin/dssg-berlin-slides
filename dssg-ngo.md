@@ -1,6 +1,6 @@
 slidenumbers: true
 
-![autoplay loop mute](heart.mp4)
+![autoplay loop mute](assets/heart.mp4)
 
 # [fit] _Zivilgesellschaftliches Engagement_
 ## _mit_
@@ -8,7 +8,7 @@ slidenumbers: true
 
 ---
 
-![autoplay loop mute](heart.mp4)
+![autoplay loop mute](assets/heart.mp4)
 
 # _Data Science_
 ## _for_
@@ -20,7 +20,7 @@ Diese Folien sollen NGOs erklären, was Data Science ist und wie sie davon profi
 
 ---
 
-![](2591501602_7cf636a409_o.jpg)
+![](assets/2591501602_7cf636a409_o.jpg)
 
 > The best minds of my generation are thinking about how to make people click ads. That sucks.
 -- Jeff Hammerbacher (Mitbegründer Facebook)
@@ -42,7 +42,7 @@ Diese Folien sollen NGOs erklären, was Data Science ist und wie sie davon profi
 
 ---
 
-![100%](Data_Science_VD.png)
+![100%](assets/Data_Science_VD.png)
 
 ---
 
@@ -75,7 +75,7 @@ DataKind bringt Wohltätigkeitsorganisationen auf zwei-tägigen Data Dives mit D
 
 ## __Beispiel__: Analyse von Armut mit Satellitenbildern
 
-![fit right](GiveDirectly_uniquePage-550x312.jpg)
+![fit right](assets/GiveDirectly_uniquePage-550x312.jpg)
 
 [DataKind](http://www.datakind.org/) hat [GiveDirectly](https://www.givedirectly.org/) - einer NGO, die bedingungslos Geld an bedürftige Haushalte in Kenia und Uganda überweist[^1] - geholfen, besonders arme Dörfer durch die automatisierte Analyse von Satellitenbildern zu identifizieren[^2].
 
@@ -103,7 +103,7 @@ Um zu helfen, die vielen Nachrichten, die über Amnesty Internationals Urgent Ac
 
 ## __Beispiel__: Analyse der geografischen Unterversorgung mit Hospizen
 
-![right](ssc-map.jpg)
+![right](assets/ssc-map.jpg)
 
 #### Freiwillige von Datakind haben [Shooting Star Chase](http://www.shootingstarchase.org.uk), die schwerbehinderte Kinder und ihre Familien begleiten, geholfen u.A. aktuelle und zukünftige Versorgungsengpässe in ihren Hospizen mithilfe der Vereinigung von demographischen Daten und Daten aus dem Gesundheitssektor vorherzusagen.[^5]
 

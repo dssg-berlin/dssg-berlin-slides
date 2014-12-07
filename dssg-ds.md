@@ -1,6 +1,6 @@
 slidenumbers: true
 
-![autoplay loop mute](heart.mp4)
+![autoplay loop mute](assets/heart.mp4)
 
 # _Data Science_
 ## _for_
@@ -8,7 +8,7 @@ slidenumbers: true
 
 ---
 
-![](2591501602_7cf636a409_o.jpg)
+![](assets/2591501602_7cf636a409_o.jpg)
 
 > The best minds of my generation are thinking about how to make people click ads. That sucks.
 -- Jeff Hammerbacher (Co-founder Facebook)
@@ -41,7 +41,7 @@ slidenumbers: true
 # [fit] donate
 ## [fit] their skills?
 
-![right](mind_blown.gif)
+![right](assets/mind_blown.gif)
 
 ---
 
@@ -135,7 +135,7 @@ Bayes Impact is a nonprofit that deploys data scientists to solve big social pro
 
 # Bayes Hack Nov 15th
 
-![right fit](thorn-bayes-hack.png)
+![right fit](assets/thorn-bayes-hack.png)
 
 One weekend,
 impact the world
@@ -201,7 +201,7 @@ DataKind connects charities with data scientists by organizing two-day data dive
 
 ## Analyzing poverty through satellite imagery
 
-![fit right](GiveDirectly_uniquePage-550x312.jpg)
+![fit right](assets/GiveDirectly_uniquePage-550x312.jpg)
 
 [DataKind](http://www.datakind.org/) helped [GiveDirectly](https://www.givedirectly.org/) – an NGO making unconditional cash transfers to poor households via mobile phones in Kenia and Uganda[^1] – to identify especially needy villages through satellite image analysis[^2].
 
@@ -236,7 +236,7 @@ To help prioritize the many calls for help reaching Amnesty International’s Ur
 
 ## Predicting demand for children’s hospices
 
-![left](ssc-map.jpg)
+![left](assets/ssc-map.jpg)
 
 Combining data from [Shooting Star Chase](http://www.shootingstarchase.org.uk/), public data about the hospice and healthcare sector and demographic data DataKind volunteers calculated predicted demand against hospice capacity to reveal areas of possible shortage.[^5]
 
@@ -308,17 +308,17 @@ There is currently no organization in Germany comparable to DataKind.
 
 ---
 
-![right](orly.jpg)
+![right](assets/orly.jpg)
 
 There is currently no organization in Germany comparable to DataKind.
 
 ---
 
-![100%](OKFN.png)
+![100%](assets/OKFN.png)
 
 ---
 
-![100%](cfg.png)
+![100%](assets/cfg.png)
 
 ---
 
@@ -383,7 +383,7 @@ just contact me!
 
 ---
 
-![autoplay loop mute](heart.mp4)
+![autoplay loop mute](assets/heart.mp4)
 
 # [fit] _Thank you!_
 # [fit] _Questions?_
