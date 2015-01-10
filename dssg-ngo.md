@@ -2,47 +2,21 @@ slidenumbers: true
 
 ![autoplay loop mute](assets/heart.mp4)
 
-# [fit] _Zivilgesellschaftliches Engagement_
-## _mit_
-# _Data Science_
-
----
-
-![autoplay loop mute](assets/heart.mp4)
-
 # _Data Science_
 ## _for_
 # _Social Good_
 
 ---
 
-Diese Folien sollen NGOs erklären, was Data Science ist und wie sie davon profitieren können.
+![autoplay loop mute](assets/heart.mp4)
 
----
-
-![](assets/2591501602_7cf636a409_o.jpg)
-
-> The best minds of my generation are thinking about how to make people click ads. That sucks.
--- Jeff Hammerbacher (Mitbegründer Facebook)
-
----
-
-### Wenn sich die Privatwirtschaft, die Mehrheit der klugen Köpfe angelt - wer arbeitet an den großen sozialen Problemen unserer Zeit?
-
----
-
-## Idee:
-#### Zivilgesellschaftliches Engagement mit
+# [fit] _Zivilgesellschaftliches Engagement_
+## _mit_
 # _Data Science_
 
 ---
 
-## Was ist
-# _Data Science_?
-
----
-
-![100%](assets/Data_Science_VD.png)
+Diese Folien sollen NGOs erklären, was Data Science ist und wie sie davon profitieren können.
 
 ---
 
@@ -53,7 +27,39 @@ Diese Folien sollen NGOs erklären, was Data Science ist und wie sie davon profi
 
 ---
 
-#### Das klingt etwas abstrakt... zum Glück gibt es
+
+# Ein typisches
+# [fit] Data Science
+# Problem
+
+---
+
+# _Problem_
+
+Begrenzte Ressourcen müssen
+möglichst __optimal__ auf
+Kandidaten (Personen/Gruppen/Regionen) verteilt werden.
+
+---
+
+# _Ansatz_
+
+Ein __Vorhersagemodell__
+wird auf Basis von historischen Daten erstellt
+um die Kandidaten zu bewerten und dadurch in eine __Rangfolge__ zu bringen.
+
+---
+
+# _Gewinn_
+
+Die Kandidaten,
+die dem Modell nach am stärksten profitieren,
+können __priorisiert__ werden.
+
+Das __spart Kosten__ und maximiert den __Impact__.
+
+---
+
 # [fit] Beispiele
 
 ---
@@ -111,10 +117,79 @@ Um zu helfen, die vielen Nachrichten, die über Amnesty Internationals Urgent Ac
 
 ---
 
-Diese Projekte sind zum großen Teil von freiwilligen Data Scientists, die sonst bei Firmen wie Google, Facebook, Microsoft, uvm. arbeiten, an zwei-tägigen Data Dives umgesetzt worden.
+Diese Projekte sind zum großen Teil von freiwilligen Data Scientists, die sonst bei Firmen wie Google, Facebook, Microsoft, uvm. arbeiten, an zwei-tägigen Data Dives[^6] umgesetzt worden.
+
+[^6]: Dazu später mehr.
 
 ---
 
+# [fit] Klingt toll! Und auch noch kostenlos...
+# [fit] Wo kann ich unterschreiben?
+
+---
+
+Noch gibt es leider keine Organisation in Deutschland, die diese Art von zivilgesellschaftlichem Engagement organisiert. Das wollen __wir__ ändern.
+
+# Wer sind wir?
+
+---
+
+# Wir
+
+#### Wir sind Mathematiker, Statistiker, Ökonomen, Informatiker, etc. die nicht mehr nur Werbung optimieren wollen.
+
+Daniel Kirsch (Mathematik), Marit Brademann, Dr. Alexander Weiß (Mathematik), Dr. Tobias Pfaff (Ökonomie), Irina Dettmann, Paulius Stakenas, Marija Vlajic (Physik)
+
+---
+
+# Unsere Unterstützer
+
+- Klaas Bollhöfer,
+__Chief Data Scientist__,
+The Unbelievable Machine Company
+- Adam Drake,
+__Chief Data Scientist__,
+Zanox
+
+---
+
+# Was wir tun
+
+Wir organisieren pro Jahr mindestens einen Data Dive mit bis zu drei sozialen Organisationen als Partner. Dort lösen freiwillige Data Scientists Probleme der Partner mit Data Science.
+
+---
+
+# Was wir brauchen
+
+---
+
+# Wir brauchen Probleme
+
+#### Aus dem Erfolg der __Data Science for Social Good__-Bewegung in den USA und England (und seit Oktober 2014 auch in Indien, Irland, und Singapur) lässt sich ableiten, dass es kein Problem sein wird, Data Scientists zu mobilisieren.
+
+#### Was uns fehlt sind __soziale Organisationen__, die bessere Einsichten aus ihren __Daten__ ziehen wollen.
+
+---
+
+# [fit] Bei welchen Problemen können wir helfen?
+
+#### Die größte Schwierigkeit für soziale Organisationen besteht darin, dass ihnen die Expertise fehlt — personell (Data Scientists) wie materiell (Big Data Technologie) — um aus ihren Daten zu lernen.
+
+#### Damit einher geht die Schwierigkeit zu erkennen, welche Probleme Daten überhaupt lösen können. Wir hoffen durch die vorhergehenden Beispiele einen Anstoß geben zu können.
+
+---
+
+#### Wenn Sie glauben, dass wir Ihnen helfen können, melden Sie sich!
+
+# Kontakt
+
+Daniel Kirsch
+[mail@danielkirs.ch](mailto:mail@danielkirs.ch)
+[@kirel](http://twitter.com/kirel)
+[http://dssg-berlin.github.io](http://dssg-berlin.github.io)
+
+---
+### Anhang:
 ## Wie funktioniert ein
 # [fit] _Data Dive_?
 
@@ -151,118 +226,6 @@ Diese Projekte sind zum großen Teil von freiwilligen Data Scientists, die sonst
 
 #### Um den Kreis zu schließen, müssen die implementierten Modelle nach einiger Zeit im Produktiveinsatz auf ihren Nutzen überprüft werden. Hat sich der Einsatz bewährt? Wo muss nachjustiert werden? Besteht weiteres/neues Potential aus den Daten zu lernen?
 
-
----
-
-# [fit] Klingt toll! Und auch noch kostenlos...
-# [fit] Wo kann ich unterschreiben?
-
----
-
-Noch gibt es leider keine Organisation in Deutschland, die diese Art von zivilgesellschaftlichem Engagement organisiert. Das wollen __wir__ ändern.
-
-# Wer sind wir?
-
----
-
-# Wir
-
-#### Wir sind Mathematiker, Statistiker, Ökonomen, Informatiker, etc. die nicht nur Werbung optimieren wollen.
-
-- Daniel Kirsch, Diplom-Mathematiker, Berlin
-- Marit Brademann
-- Tobias Pfaff
-
----
-
-# Unsere Unterstützer
-
-- Klaas Bollhöfer,
-__Chief Data Scientist__,
-The Unbelievable Machine Company
-- Adam Drake,
-__Chief Data Scientist__,
-Zanox
-
----
-
-# Was wir brauchen
-
----
-
-# Wir brauchen Probleme
-
-#### Aus dem Erfolg der __Data Science for Social Good__-Bewegung in den USA und England (und seit Oktober auch in Indien, Irland, und Singapur) lässt sich ableiten, dass es kein Problem sein wird, Data Scientists zu mobilisieren.
-
-#### Was uns fehlt sind __NGOs__, die bessere Einsichten aus ihren __Daten__ ziehen wollen.
-
----
-
-# [fit] Bei welchen Problemen können wir helfen?
-
-#### Die größte Schwierigkeit für soziale Organisationen besteht darin, dass ihnen die Expertise fehlt — personell (Data Scientists) wie materiell (Big Data Technologie) — um aus ihren Daten zu lernen.
-
-#### Damit einher geht die Schwierigkeit zu erkennen, welche Probleme Daten überhaupt lösen können. Wir hoffen durch die vorhergehenden Beispiele und die folgende Blaupause einen Anstoß geben zu können.
-
----
-
-# Das typische Muster
-
----
-
-# _Problem_
-
-Begrenzte Ressourcen müssen
-möglichst __optimal__ auf
-Kandidaten (Personen/Gruppen/Regionen) verteilt werden.
-
----
-
-# _Ansatz_
-
-Ein __Vorhersagemodell__
-wird auf Basis von historischen Daten erstellt
-um die Kandidaten zu bewerten und dadurch in eine __Rangfolge__ zu bringen.
-
----
-
-# _Gewinn_
-
-Die Kandidaten,
-die dem Modell nach am stärksten profitieren,
-können __priorisiert__ werden.
-
-Das __spart Kosten__ und maximiert den __Impact__.
-
----
-
-# _Hinweis_
-
-Auch mathematische Modelle sind nicht perfekt.
-
-Das müssen sie aber auch nicht. Sie müssen nur besser sein, als die bisherige Praxis.
-Das sind sie häufig.[^11]
-
-[^11]: Insbesondere da sie keine Opfer von [Urteilsheuristiken](http://de.wikipedia.org/wiki/Urteilsheuristik) und [kognitiven Verzerrungen](http://de.wikipedia.org/wiki/Kognitive_Verzerrung) sind.
-
----
-
-# Andere typische Anwendungsfälle
-
-- Ausreißeranalyse/Anomalienerkennung (z.B. um Missbrauch aufzudecken)
-- Social Media Analyse
-- ???
-
----
-
-# Kontakt
-
-Daniel Kirsch
-[mail@danielkirs.ch](mailto:mail@danielkirs.ch)
-[@kirel](http://twitter.com/kirel)
-
-Webseite ist in Arbeit.
-
 ---
 
 # Weiterführende Links:
@@ -278,9 +241,3 @@ Webseite ist in Arbeit.
 - [http://dssg-atl.io/](http://dssg-atl.io/)
 - [http://bayesimpact.org](http://bayesimpact.org)
 - [http://codefor.de](http://bayesimpact.org)
-
----
-
-# Attribution
-
-- [Foto von Jeff Hammberbacher](https://www.flickr.com/photos/fcb/2591501602/in/photolist-4X1897-47avxA-4mkQWN-4mcCAz-4mgFps-bJvpt-6ufucT-4mt3dH-4mt3f8-4mkQWs-e5vYVa-hDRfn3-aiEwhm-oTgPeV-ebcivP-aiEwhG-htuLv1-htt3k2-htsTSG-htsUwC-aiEx4b-aiEuqd-aiEuq5-ebhZis-ebckeK-dzVz9n-9LAV7P-7gFetg-7gFeuD-6zu5ed-7gFetx) von [Fred Brenenson](https://www.flickr.com/photos/fcb/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
