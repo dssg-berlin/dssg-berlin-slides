@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3189px" height="1942px" viewBox="0 0 3189 1942" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>slidebg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(2746.000000, 1212.000000)">
+            <g transform="translate(0.000000, 303.000000)" sketch:type="MSShapeGroup">
+                <path d="M127,412 L266,219" id="Line" stroke="#5FCAFF" stroke-width="20" stroke-linecap="square"></path>
+                <path d="M521,123 L266,219" id="Line-Copy" stroke="#5FCAFF" stroke-width="20" stroke-linecap="square"></path>
+                <path d="M46,47 L266,219" id="Line-Copy-2" stroke="#5FCAFF" stroke-width="20" stroke-linecap="square"></path>
+                <circle id="glow" fill="#5FCAFF" cx="267" cy="219" r="91"></circle>
+                <circle id="satellite-1-copy" fill="#5FCAFF" cx="44.5" cy="44.5" r="44.5"></circle>
+                <circle id="satellite-1-copy-2" fill="#5FCAFF" cx="118" cy="421" r="56"></circle>
+                <circle id="body" fill="#000000" cx="267" cy="219" r="73"></circle>
+            </g>
+            <rect id="head" fill="#000000" sketch:type="MSShapeGroup" x="238" y="347" width="59" height="193" rx="8"></rect>
+            <path d="M260.657824,8.00056837 C260.685709,3.58197647 264.28545,0 268.707824,0 L266.52946,0 C270.947467,0 274.541093,3.58053707 274.55606,8.00056837 L275.961268,422.999432 C275.976229,427.418024 272.410616,431 267.988472,431 L265.988245,431 C261.570029,431 258.010954,427.419463 258.038848,422.999432 L260.657824,8.00056837 Z" id="tower" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <path d="M250.343702,481.161695 C237.203195,506.716266 235.314183,557.213804 252.132071,576.964565 C243.231361,556.660181 243.703524,512.385219 250.343702,481.161695 Z" id="Path-7" fill="#5FCAFF" sketch:type="MSShapeGroup"></path>
+            <path d="M205.441293,530.509064 C219.904511,541.330011 279.565084,540.402067 304.561437,532.274988 C281.73631,535.163698 223.769131,534.496489 205.441293,530.509064 Z" id="Path-7-Copy" fill="#5FCAFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
