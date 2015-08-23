@@ -77,7 +77,7 @@ Unsere Hackathons stiften Nutzen aber kosten auch Geld. Die Kostenpunkte beinhal
 - Identifikation mit dem Trend _Data Science_ in einem neuen (gemeinwohlorientierten) Kontext
 - Investition in einem sich entwickelnden Markt - _Big Data_ und _Data science_ werden zunehmend relevanter für NPOs
 - Interaktion mit Data Scientists die über den Tellerrand schauen wollen
-- Die Welt mit _Data Science_ verbessern
+- Sie helfen die Welt zu verbessern — mit _Data Science_
 
 
 ---
@@ -96,9 +96,9 @@ Sie haben
 
 - Platz für 50-100 Personen
 - stabiles, schnelles Internet
-- ... tbd ...
+- __TODO__
 
-dann werden Sie Venue-Sponsor! Sie bekommen außerdem einen 5 Minuten-Slot bei der Begrüßung.
+dann werden Sie Venue-Sponsor! Sie bekommen außerdem einen 5 Minuten-Slot bei der Begrüßung. __TODO__
 
 ---
 
