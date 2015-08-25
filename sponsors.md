@@ -1,3 +1,5 @@
+slidenumbers: true
+
 ![inline](dssg-logo.png)
 # Data Science for Social Good Berlin
 
@@ -11,7 +13,7 @@
 # Non-Profits unterstützen mit
 # Data Science
 
-### Wir vermitteln zwischen sozialen Organisationen und Data Science-Experten aus der Privatwirtschaft um Lösungen für soziale Probleme zu finden.
+### Wir vermitteln zwischen sozialen Organisationen und Data Science-Experten um Lösungen für soziale Probleme zu finden.
 
 ## _Pro bono._
 
@@ -19,7 +21,7 @@
 
 # Daten sind das neue Öl. NPOs heizen mit Kohle.
 
-Data Science und Predictive Analytics entfalten in der Privatwirtschaft enormes Innovationspotential. Non-Profits sind technologisch längst abgehängt. Wir wollen diese Lücke schließen und Data Scientists die Möglichkeit geben sich mit ihrer Expertise zivilgesellschaftlich zu engagieren.
+Data Science und Predictive Analytics entfalten in der Privatwirtschaft enormes Innovationspotential. Non-Profits sind technologisch längst abgehängt. Wir wollen diese Lücke schließen und Data Scientists die Möglichkeit geben, sich mit ihrer Expertise zivilgesellschaftlich zu engagieren.
 
 Wir streben eine wirkungsorientierte und dateninformierte Gesellschaft an.
 
@@ -32,20 +34,20 @@ Wir streben eine wirkungsorientierte und dateninformierte Gesellschaft an.
 # Projektablauf
 
 1. _Screening_ von NPOs & Freiwilligen
-2. Auswahl von NPOs & _matching_ mit Freiwilligen
-3. 2-3 monatige _Vorbereitung_ (Problemdefinition, Datensäuberung, verbinden von Datenquellen)
-4. _Hackathon_ – finden von Lösungen mit Unterstützung der Data Science-Community
+2. Auswahl von NPOs und _matching_ mit Freiwilligen
+3. Zwei- bis dreimonatige _Vorbereitung_ (Problemdefinition, Datensäuberung, verbinden von Datenquellen)
+4. _Data Dive_ – finden von Lösungen mit Unterstützung der Data Science-Community
 5. Nachbereitung & Implementierung
 
 ---
 
 ![](sponsors/slidebg.png)
 
-# Hackathon als Höhepunkt von Projekten
+# Data Dive als Höhepunkt von Projekten
 
-Bei einem Wochenendevent trifft die Data Science-Community auf unsere ausgewählten NPOs um gemeinsam mit ihnen deren Datenprobleme anzugehen.
+Bei einem Wochenendevent trifft die Data Science-Community auf unsere ausgewählten NPOs, um gemeinsam mit ihnen deren Datenprobleme anzugehen.
 
-Der Eventcharakter schafft Aufmerksamkeit für das Thema bei sowohl Data Scientists als auch sozialen Organisationen und ermöglicht eine breite Teilhabe.
+Der Eventcharakter erzeugt Aufmerksamkeit bei Data Scientists und sozialen Organisationen und ermöglicht eine breite Teilhabe.
 
 Das Event ist für Data Scientists kostenlos.
 
@@ -53,11 +55,11 @@ Das Event ist für Data Scientists kostenlos.
 
 ![](sponsors/slidebg.png)
 
-# Erster Hackathon bereits in Vorbereitung
+# Erster Data Dive bereits in Vorbereitung
 
-Unser erster Hackathon findet am 24./25.10.2015 statt.
+Unser erster Data Dive findet am 24./25.10.2015 statt.
 
-Dabei helfen wir zwei Non-Profits:
+Dabei helfen wir zwei Non-Profit-Organisationen:
 _Jambo Bukoba_ und _Streetfootballworld_.
 
 Die Vorbereitungen unserer Freiwilligen haben bereits begonnen.
@@ -86,7 +88,7 @@ __DSSG wird dabei helfen (z.B. mit NLP und Topic Modeling) Einsichten aus den Ta
 
 ---
 
-Unsere Projekte stiften Nutzen doch speziell die Events kosten auch Geld. Die Kostenpunkte beinhalten den Veranstaltungsort, die Technik und die Verpflegung für die Data Scientists. Darum brauchen wir Ihre Unterstützung.
+Unsere Projekte stiften Nutzen, doch speziell die Data Dives kosten auch Geld. Die Kostenpunkte beinhalten den Veranstaltungsort, die Technik und die Verpflegung für die Data Scientists. Darum brauchen wir Ihre Unterstützung.
 
 # [fit] Wir suchen Partner, die unsere Vision teilen.
 
@@ -99,7 +101,7 @@ Unsere Projekte stiften Nutzen doch speziell die Events kosten auch Geld. Die Ko
 # Nutzen für Ihr Unternehmen 
 
 - Platzieren Sie ihre Marke in einer Expertencommunity von Data Scientists
-- Investieren Sie in einem sich entwickelnden Markt - _Big Data_ und _Data science_ werden zunehmend relevanter für NPOs
+- Investieren Sie in einem sich entwickelnden Markt - _Big Data_ und _Data Science_ werden zunehmend relevanter für NPOs
 - Übernehmen sie soziale Verantwortung und helfen Sie die Welt zu verbessern — mit _Data Science_
 
 ---
@@ -114,13 +116,12 @@ Unsere Projekte stiften Nutzen doch speziell die Events kosten auch Geld. Die Ko
 
 # Venue Sponsoring
 
-Sie haben
+Sie haben Platz für
 
-- Platz für 50-100 Personen
-- stabiles, schnelles Internet
-- Präsentationstechnik (Beamer, Mikro, etc.)
+- 50-100 Personen (in Arbeitsgruppen von 10 Personen), Catering, Präsentationen
+- stabiles, schnelles Internet (für 50-100 Personen!), Präsentationstechnik (Beamer, Mikro, etc.)
 
-dann werden Sie Venue-Sponsor! So erreichen Sie maximale Sichtbarkeit. Sie bekommen außerdem einen 5 Minuten-Slot bei der Begrüßung zum Event.
+Werden Sie Venue-Sponsor! Sie erreichen maximale Sichtbarkeit und bekommen außerdem einen 5m-Slot bei der Begrüßung zum Event.
 
 ---
 
@@ -128,7 +129,7 @@ dann werden Sie Venue-Sponsor! So erreichen Sie maximale Sichtbarkeit. Sie bekom
 
 # Generelles Sponsoring
 
-- __Gold__ – Prominentes Logo auf dem Poster, 5m Slot zur Begrüßung, Sponsored Breakout Session[^1], Erwähnung im Bericht im Blog – 2000€
+- __Gold__ – Prominentes Logo auf dem Poster, 5m Slot zur Begrüßung, Sponsored Breakout Session[^1], Nennung in Pressemitteilungen und Blogbeiträgen – 2000€
 - __Silver__ – Logo auf dem Poster, Sponsored Breakout Session[^1]  – 1000€
 - __Bronze__ – kleines Logo auf dem Poster – 200€
 
@@ -143,7 +144,7 @@ Nicht das Richtige dabei? Sprechen Sie uns an!
 # Team
 
 - Daniel Kirsch _(Diplom-Mathematiker)_
-- Jana Kludas _(Phd Machine Learning)_
+- Jana Kludas _(PhD Machine Learning)_
 - Marit Brademann _(MSc Social Science)_
 - Richard Lawrence _(MSc Biomedical Engineering)_
 - Georg Walther _(PhD Computational Biology)_
@@ -156,11 +157,11 @@ Nicht das Richtige dabei? Sprechen Sie uns an!
 # Advisory Board
 
 - Claudia Leißner, __Geschäftsführerin__ @ Proboneo
-- Dr. Alexander Weiß, __Head of Data Analytics__ @ Trademob
 - Klaas Bollhöfer,
 __Chief Data Scientist__ @ The Unbelievable Machine Company
-- Tobias Pfaff, __Geschäftsführer__ @ Datalook
 - Adam Drake, __Chief Data Officer__ @ Skyscanner
+- Dr. Alexander Weiß, __Head of Data Analytics__ @ Trademob
+- Tobias Pfaff, __Geschäftsführer__ @ Datalook
 
 ---
 
