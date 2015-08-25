@@ -34,7 +34,7 @@ Wir streben eine wirkungsorientierte und dateninformierte Gesellschaft an.
 1. _Screening_ von NPOs & Freiwilligen
 2. Auswahl von NPOs & _matching_ mit Freiwilligen
 3. 2-3 monatige _Vorbereitung_ (Problemdefinition, Datensäuberung, verbinden von Datenquellen)
-4. _Hackathon_ – finden von Lösungen mit Unterstützung der Data-Science Community
+4. _Hackathon_ – finden von Lösungen mit Unterstützung der Data Science-Community
 5. Nachbereitung & Implementierung
 
 ---
@@ -43,11 +43,11 @@ Wir streben eine wirkungsorientierte und dateninformierte Gesellschaft an.
 
 # Hackathon als Höhepunkt von Projekten
 
-Bei einem Wochenend-Event trifft die Data Science-Community auf unsere ausgewählten NPOs um gemeinsam mit ihnen deren Daten-Probleme anzugehen.
+Bei einem Wochenendevent trifft die Data Science-Community auf unsere ausgewählten NPOs um gemeinsam mit ihnen deren Datenprobleme anzugehen.
 
 Der Eventcharakter schafft Aufmerksamkeit für das Thema bei sowohl Data Scientists als auch sozialen Organisationen und ermöglicht eine breite Teilhabe.
 
-Das Event ist für Data Scientists freiwillig und kostenlos.
+Das Event ist für Data Scientists kostenlos.
 
 ---
 
@@ -70,7 +70,7 @@ Die Vorbereitungen unserer Freiwilligen haben bereits begonnen.
 
 [Jambo Bukoba](http://www.jambobukoba.com/) setzt sich dafür ein, Kinder in Tansania durch Sport zu starken Menschen zu machen. Das Programm zeigt den Kindern Ziele auf, spornt sie zu besseren schulischen Leistungen an und klärt zudem über HIV/Aids auf.
 
-__DSSG Berlin wird dabei helfen mit offenen Daten der Weltbank und internen Daten von Jumbo Bukoba die Wirksamkeit des Programms zu visualisieren und Potentiale für eine zukünftige Ausweitung aufzuzeigen.__
+__DSSG Berlin wird dabei helfen mit offenen Daten der Weltbank und internen Daten von Jumbo Bukoba die Wirksamkeit des Programms zu visualisieren und Potentiale für eine zukünftige Expansion aufzuzeigen.__
 
 ---
 
@@ -98,7 +98,7 @@ Unsere Projekte stiften Nutzen doch speziell die Events kosten auch Geld. Die Ko
 
 # Nutzen für Ihr Unternehmen 
 
-- Platzieren Sie ihre Marke in einer Experten-Community von Data Scientists
+- Platzieren Sie ihre Marke in einer Expertencommunity von Data Scientists
 - Investieren Sie in einem sich entwickelnden Markt - _Big Data_ und _Data science_ werden zunehmend relevanter für NPOs
 - Übernehmen sie soziale Verantwortung und helfen Sie die Welt zu verbessern — mit _Data Science_
 
@@ -128,13 +128,13 @@ dann werden Sie Venue-Sponsor! So erreichen Sie maximale Sichtbarkeit. Sie bekom
 
 # Generelles Sponsoring
 
-Sie decken unsere sonstigen Kosten für Organisation und Materialien wie Verpflegung, Getränke, Poster, etc.
-
-- __Gold__ – Prominentes Logo auf dem Poster, 5m Slot bei der Begrüßung, Erwähnung im Bericht im Blog – 2000€
-- __Silver__ – Logo auf dem Poster – 1000€
+- __Gold__ – Prominentes Logo auf dem Poster, 5m Slot zur Begrüßung, Sponsored Breakout Session[^1], Erwähnung im Bericht im Blog – 2000€
+- __Silver__ – Logo auf dem Poster, Sponsored Breakout Session[^1]  – 1000€
 - __Bronze__ – kleines Logo auf dem Poster – 200€
 
 Nicht das Richtige dabei? Sprechen Sie uns an!
+
+[^1]: 30m Talk über eine relevante Methodik oder Technologie
 
 ---
 
