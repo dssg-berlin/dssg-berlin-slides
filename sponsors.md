@@ -118,9 +118,9 @@ Sie haben
 
 - Platz für 50-100 Personen
 - stabiles, schnelles Internet
-- __TODO__
+- Präsentationstechnik (Beamer, Mikro, etc.)
 
-dann werden Sie Venue-Sponsor! Sie bekommen außerdem einen 5 Minuten-Slot bei der Begrüßung. __TODO__
+dann werden Sie Venue-Sponsor! So erreichen Sie maximale Sichtbarkeit. Sie bekommen außerdem einen 5 Minuten-Slot bei der Begrüßung zum Event.
 
 ---
 
@@ -128,11 +128,13 @@ dann werden Sie Venue-Sponsor! Sie bekommen außerdem einen 5 Minuten-Slot bei d
 
 # Generelles Sponsoring
 
-Sie decken unsere sonstigen Kosten für Organisation und Materialien wie Getränke, Poster, Präsentationstechnik, etc.
+Sie decken unsere sonstigen Kosten für Organisation und Materialien wie Verpflegung, Getränke, Poster, etc.
 
-- __Gold__ – Prominentes Logo auf dem Poster, 5m Slot bei der Begrüßung, Erwähnung im Bericht im Blog – __TODO__ 2000€?
-- __Silver__ – Logo auf dem Poster – __TODO__ 1000€?
-- __Bronze__ – kleines Logo auf dem Poster – __TODO__ 200€?
+- __Gold__ – Prominentes Logo auf dem Poster, 5m Slot bei der Begrüßung, Erwähnung im Bericht im Blog – 2000€
+- __Silver__ – Logo auf dem Poster – 1000€
+- __Bronze__ – kleines Logo auf dem Poster – 200€
+
+Nicht das Richtige dabei? Sprechen Sie uns an!
 
 ---
 
