@@ -34,8 +34,8 @@ Our vision is an impact oriented and data informed society.
 # Project path
 
 1. _Screening_ of NPOs & volunteers
-2. Selection of NPOs and _matching_ matching with volunteers
-3. Two- to three-month _Preparation_ (problem definition, cleaning and joining of data sources)
+2. Selection of NPOs and _matching_ with volunteers
+3. Two- to three-month _preparation_ (problem definition, cleaning and joining of data sources)
 4. _Data Dive_ – finding solutions with the support of the data science community
 5. follow-up & implementation
 
@@ -72,7 +72,7 @@ Our volunteers are currently preparing the data.
 
 [Jambo Bukoba](http://www.jambobukoba.com/) committed itself to empower children in Tanzania through sports. The program offers perspectives and encourages children to improve their academic achievements. Additionally it educates about HIV/AIDS.
 
-__DSSG Berlin will help to visualize the impact of the program with open data and internal data to inform perspectives on future expansion__
+__DSSG Berlin will help to visualize the impact of the program with open data and internal data to inform perspectives on future expansion.__
 
 ---
 
@@ -88,7 +88,7 @@ __DSSG will help to gain insights from these thousands of answers (e.g. through 
 
 ---
 
-The Data Dives cost money, so to be able to harvest the positive impact, we need partners. Costs include the venue, equipment and catering for the data scientists.
+To be able to harvest the positive impact, we need partners that carry the cost of the Data Dives. Costs include the venue, equipment and catering for the data scientists.
 
 # [fit] If you share our vision, jump on board and support us!
 
