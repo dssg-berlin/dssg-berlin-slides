@@ -45,9 +45,9 @@ Our vision is an impact oriented and data informed society.
 
 # Data Dive as pinnacle of projects
 
-At a weekend-long event the data science-community partners up with our selected NPOs to solve their data problems collaboratively.
+At a weekend event the data science community partners up with our selected NPOs to solve their data problems collaboratively.
 
-The event generates attention with data scientists and social organizations alike and enables wide participation.
+The event creates attention among data scientists and social organizations alike and enables wide participation.
 
 It’s free for data scientists.
 
@@ -59,7 +59,7 @@ It’s free for data scientists.
 
 It’s happening on 24./25.10.2015.
 
-We will help two Nonprofit organisations:
+We will help two nonprofit organisations:
 _Jambo Bukoba_ and _Streetfootballworld_.
 
 Our volunteers are currently preparing the data.
@@ -80,7 +80,7 @@ __DSSG Berlin will help to visualize the impact of the program with open data an
 
 ![inline](sponsors/sfw-logo.jpg)
 
-[Streetfootballworld](http://www.streetfootballworld.org/) is an international umbrella organization for non-profits in the field of social change through football.
+[Streetfootballworld](http://www.streetfootballworld.org/) is an international umbrella organization for nonprofits in the field of social change through football.
 
 With [http://www.unleashfootball.com](http://www.unleashfootball.com) they want to collect more than 100.000 ideas on the question _„How can we make the greatest game a greater source for good?“_.
 
@@ -121,7 +121,7 @@ You have room for
 - 50-100 persons (in working groups of 10), catering, presentations
 - stable, fast internet connection (for 50-100 people!), presentation equipment (projector, mic, etc.)
 
-Become our venue sponsor! You get maximum visibility and will speak for 5m during the events intro talks.
+Become our venue sponsor! You get maximum visibility and will speak for 5 minutes during the event’s intro talks.
 
 ---
 
@@ -129,13 +129,13 @@ Become our venue sponsor! You get maximum visibility and will speak for 5m durin
 
 # General sponsoring
 
-- __Gold__ – Prominent logo on the poster, 5m slot during introductory talks, sponsored breakout session[^1], mention in press releases and blog posts – 2000€
+- __Gold__ – Prominent logo on the poster, 5m slot during intro talks, sponsored breakout session[^1], mention in press releases and blog posts – 2000€
 - __Silver__ – logo on the poster, sponsored breakout session[^1]  – 1000€
 - __Bronze__ – small logo on the poster – 200€
 
 Not the right package for you? Talk to us!
 
-[^1]: 30m presentation on a relevant method or technology
+[^1]: 30 minutes presentation on a relevant method or technology
 
 ---
 
