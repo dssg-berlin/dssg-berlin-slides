@@ -57,7 +57,7 @@ It’s free for data scientists.
 
 # The first Data Dive is already planned
 
-It’s happening on 24./25.10.2015.
+It’s happening on October 24-25, 2015.
 
 We will help two nonprofit organisations:
 _Jambo Bukoba_ and _Streetfootballworld_.
